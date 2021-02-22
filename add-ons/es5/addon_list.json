@@ -78,16 +78,6 @@
                 "tv"
             ]
         },
-        "thanqn": {
-            "name": "thanqn",
-            "domain": "thanqn.dis",
-            "version": "0.3.23",
-            "url": "https://raw.githubusercontent.com/orchidshl1/free/master/add-ons/es5/providers/thanqn.js",
-            "type": [
-                "movie",
-                "tv"
-            ]
-        },
         "hdtop": {
             "name": "hdtop",
             "domain": "hdtop.dis",
