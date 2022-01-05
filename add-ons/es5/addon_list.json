@@ -128,26 +128,6 @@
                 "tv"
             ]
         },
-        "hdtop": {
-            "name": "hdtop",
-            "domain": "hdtop.dis",
-            "version": "0.0.15",
-            "url": "https://raw.githubusercontent.com/orchidshl1/free/master/add-ons/es5/providers/hdtop.js?v0.0.0.1",
-            "type": [
-                "movie",
-                "tv"
-            ]
-        },
-        "hdtopweb": {
-            "name": "hdtopweb",
-            "domain": "hdtopweb.dis",
-            "version": "0.0.16",
-            "url": "https://raw.githubusercontent.com/orchidshl1/free/master/add-ons/es5/providers/hdtopweb.js?v0.0.0.1",
-            "type": [
-                "movie",
-                "tv"
-            ]
-        },
         "wfree": {
             "name": "wfree",
             "domain": "wfree.dis",
