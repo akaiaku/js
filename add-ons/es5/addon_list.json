@@ -235,6 +235,16 @@
                 "tv"
             ]
         },
+        "bbrls": {
+            "name": "bbrls",
+            "domain": "bbrls.in",
+            "version": "0.0.15",
+            "url": "https://raw.githubusercontent.com/akaiaku/js/master/add-ons/es5/providers/rlsbb.js",
+            "type": [
+                "movie",
+                "tv"
+            ]
+        },
         "projectflv": {
             "name": "projectflv",
             "domain": "projectflv.dis",
